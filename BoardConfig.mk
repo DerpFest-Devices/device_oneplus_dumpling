@@ -37,8 +37,5 @@ TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 # SELinux
 BOARD_VENDOR_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/vendor
 
-# Soong namespaces
-PRODUCT_SOONG_NAMESPACES += $(DEVICE_PATH)
-
 # inherit from the proprietary version
 -include vendor/oneplus/dumpling/BoardConfigVendor.mk
