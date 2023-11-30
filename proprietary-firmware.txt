@@ -1,0 +1,17 @@
+## All proprietary files from this list, unless pinned and noted otherwise,
+## are from OnePlus 5T (QKQ1.191014)
+
+abl.elf:abl.img
+adspso.bin:dsp.img
+BTFM.bin:bluetooth.img
+cmnlib.mbn:cmnlib.img
+cmnlib64.mbn:cmnlib64.img
+devcfg.mbn:devcfg.img
+hyp.mbn:hyp.img
+keymaster.mbn:keymaster.img
+logo.bin:LOGO.img
+NON-HLOS.bin:modem.img
+pmic.elf:pmic.img
+rpm.mbn:rpm.img
+tz.mbn:tz.img
+xbl.elf:xbl.img
